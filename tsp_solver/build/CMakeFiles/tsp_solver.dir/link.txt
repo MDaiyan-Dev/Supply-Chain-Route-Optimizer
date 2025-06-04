@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\tsp_solver.dir/objects.a
+C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\ar.exe qc CMakeFiles\tsp_solver.dir/objects.a @CMakeFiles\tsp_solver.dir\objects1.rsp
+C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\C__~1.EXE -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\tsp_solver.dir/objects.a -Wl,--no-whole-archive -o tsp_solver.exe -Wl,--out-implib,libtsp_solver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tsp_solver.dir\linkLibs.rsp
